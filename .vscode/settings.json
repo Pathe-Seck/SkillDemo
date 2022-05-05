@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/patheseck/DSC20/CSE12/cse12-sp22-pa3-LinkedList-starter-main/libs/hamcrest-core-1.3.jar",
+        "/Users/patheseck/DSC20/CSE12/cse12-sp22-pa3-LinkedList-starter-main/libs/junit-4.12.jar"
+    ]
+}
